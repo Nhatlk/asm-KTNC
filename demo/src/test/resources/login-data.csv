@@ -1,0 +1,6 @@
+username,password,expected,expectedMessage
+standard_user,secret_sauce,SUCCESS,
+standard_user,wrong123,FAIL,Username and password do not match
+locked_out_user,secret_sauce,FAIL,this user has been locked out
+,secret_sauce,FAIL,Username is required
+standard_user,,FAIL,Password is required

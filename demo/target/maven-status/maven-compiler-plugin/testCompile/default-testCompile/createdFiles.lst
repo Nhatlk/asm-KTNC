@@ -1,0 +1,12 @@
+intergration\ProductDAOTest.class
+intergration\ProductEntityTest.class
+intergration\DBconnectionTest.class
+unit\service\OrderCancelServiceTest$CancelTests.class
+unit\service\OrderCancelServiceTest.class
+e2e\LoginDataDrivenTest.class
+unit\service\CategoryServiceTest.class
+unit\service\ProductServiceTest.class
+unit\service\OrderCancelServiceTest$ValidationTests.class
+intergration\OrderDAOIntegrationTest.class
+unit\service\CustomerServiceTest.class
+unit\service\OrderServiceTest.class

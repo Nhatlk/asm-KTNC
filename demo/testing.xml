@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="SauceDemo_Lab6_Suite" parallel="false">
+    <test name="Login_DataDriven_Test">
+        <classes>
+            <class name="e2e.LoginDataDrivenTest"/>
+        </classes>
+    </test>
+</suite>
